@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=QuickCrab()
+comment1.params=
+comment1.target=java.util.ArrayList\ getMoveLocation()
+comment2.params=locs\ dir
+comment2.target=void\ addTwoOutMove(java.util.ArrayList,\ int)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=darts
+comment0.target=double[]\ getXCoordinate(int)
+comment1.params=darts
+comment1.target=double[]\ getYCoordinate(int)
+comment2.params=Xcoordinates\ Ycoordinates\ darts\ trials
+comment2.target=double\ estimatePi(double[],\ double[],\ int,\ int)
+comment3.params=trialPi
+comment3.target=void\ printTrials(double[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

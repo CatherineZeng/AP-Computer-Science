@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CashRegister()
+comment1.params=cashOnHand
+comment1.target=CashRegister(int)
+comment2.params=value
+comment2.target=void\ acceptAmount(int)
+comment3.params=
+comment3.target=int\ getCashOnHand()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecursivePalindrome()
+comment1.params=entered
+comment1.target=boolean\ isPalindrome(java.lang.String)
+numComments=2

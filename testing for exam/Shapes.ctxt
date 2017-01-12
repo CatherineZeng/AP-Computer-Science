@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=length\ width
+comment0.target=void\ calcRectanguleArea(int,\ int)
+comment1.params=length\ width
+comment1.target=void\ calcRectanglePerimeter(int,\ int)
+comment2.params=
+comment2.target=int\ getArea()
+comment3.params=
+comment3.target=int\ getPerimeter()
+comment4.params=minutes
+comment4.target=double\ convertMinutes(int)
+numComments=5

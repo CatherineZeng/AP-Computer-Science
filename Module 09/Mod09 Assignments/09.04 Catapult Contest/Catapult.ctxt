@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=MPH\ angleDegree
+comment0.target=Catapult(int,\ int)
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ Catapult\r\n
+comment1.params=
+comment1.target=void\ calcDistance()
+comment1.text=\r\n\ Accessor\ method\ to\ calculate\ the\ distance\ item\ is\ projected\ to\ shoot\r\n\ @param\ myMPH\ miles\ per\ hour\ of\ shoot\r\n\ @param\ myAngleDegree\ angle\ degree\ of\ shoot\r\n
+comment2.params=
+comment2.target=double\ getDistance()
+comment2.text=\r\n\ Getter\ method\ to\ return\ the\ distance\ shoot\ traveled\r\n
+numComments=3

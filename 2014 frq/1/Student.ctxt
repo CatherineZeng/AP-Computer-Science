@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nm\ count
+comment0.target=Student(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=Returns\ the\ name\ of\ this\ Student.
+comment2.params=
+comment2.target=int\ getAbsenceCount()
+comment2.text=Returns\ the\ number\ of\ times\ this\ Student\ has\ missed\ class.
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

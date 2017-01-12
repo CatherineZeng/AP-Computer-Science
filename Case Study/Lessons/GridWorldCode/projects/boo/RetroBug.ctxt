@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RetroBug()
+comment1.params=bugColor
+comment1.target=RetroBug(java.awt.Color)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ restore()
+numComments=4

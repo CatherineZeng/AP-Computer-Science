@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=boo\ location
+comment1.target=void\ deleteByLoc(Candidate[],\ int)
+comment10.params=boo
+comment10.target=void\ printResults(Candidate[])
+comment2.params=boo\ name
+comment2.target=void\ deleteByName(Candidate[],\ java.lang.String)
+comment3.params=boo\ position\ name\ votes
+comment3.target=void\ insertPosition(Candidate[],\ int,\ java.lang.String,\ int)
+comment4.params=boo\ findName\ name\ votes
+comment4.target=void\ insertCandidate(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment5.params=boo\ name\ replace
+comment5.target=void\ replaceName(Candidate[],\ java.lang.String,\ java.lang.String)
+comment6.params=boo\ name\ replacedVotes
+comment6.target=void\ replaceVotes(Candidate[],\ java.lang.String,\ int)
+comment7.params=boo\ name\ replacementName\ replacementVotes
+comment7.target=void\ replaceCandidate(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=boo
+comment8.target=void\ printVotes(Candidate[])
+comment9.params=boo
+comment9.target=int\ getTotal(Candidate[])
+numComments=11

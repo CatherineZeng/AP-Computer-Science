@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=BlusterCritter(int)
+comment1.params=
+comment1.target=java.util.ArrayList\ getActors()
+comment2.params=actors
+comment2.target=void\ processActors(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ darken()
+comment4.params=
+comment4.target=void\ lighten()
+numComments=5

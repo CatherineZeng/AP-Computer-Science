@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pagesRead\ typeHomework
+comment0.target=MyEnglish(int,\ java.lang.String)
+comment1.params=p
+comment1.target=void\ createAssignment(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

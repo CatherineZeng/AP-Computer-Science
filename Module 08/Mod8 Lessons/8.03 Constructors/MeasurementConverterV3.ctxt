@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MeasurementConverterV3()
+comment1.params=
+comment1.target=void\ printPurpose()
+comment2.params=ft
+comment2.target=double\ convertFeetToMiles(double)
+comment3.params=mi
+comment3.target=double\ convertMilesToFeet(double)
+comment4.params=mi
+comment4.target=double\ convertMilesToKilometers(double)
+comment5.params=km
+comment5.target=double\ convertKilometersToMiles(double)
+comment6.params=lb
+comment6.target=double\ convertPoundsToKilograms(double)
+comment7.params=kg
+comment7.target=double\ convertKilogramsToPounds(double)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

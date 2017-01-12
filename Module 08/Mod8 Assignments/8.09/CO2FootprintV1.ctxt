@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=gals
+comment0.target=CO2FootprintV1(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CO2FootprintV1\r\n\ @param\ gals\ annual\ prediction\ of\ gallons\ used\r\n
+comment1.params=
+comment1.target=double\ calcTonsCO2()
+comment1.text=\r\n\ Method\ for\ calculating\ tons\ of\ CO2\ released\ from\ gallons\ used\ of\ gas\r\n\ @return\ total\ tons\r\n
+comment2.params=
+comment2.target=double\ convertTonsToPoundsCO2()
+comment2.text=\r\n\ Method\ for\ calculating\ pounds\ of\ CO2\ released\ from\ gallons\ used\ of\ gas\r\n\ @return\ total\ pounds\r\n
+comment3.params=
+comment3.target=double\ getGals()
+comment3.text=\r\n\ Getter\ method\ to\ return\ value\ of\ total\ gas\ gallons\ used\ annually\r\n\ @return\ total\ gas\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=boo
+comment1.target=void\ printMovies(Movie2[])
+comment2.params=boo\ way
+comment2.target=Movie2[]\ sortStudios(Movie2[],\ int)
+comment3.params=boo\ way
+comment3.target=Movie2[]\ sortTitles(Movie2[],\ int)
+comment4.params=boo\ way
+comment4.target=Movie2[]\ sortYears(Movie2[],\ int)
+numComments=5

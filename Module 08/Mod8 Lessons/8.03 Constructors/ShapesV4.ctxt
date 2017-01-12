@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShapesV4()
+comment1.params=w\ l
+comment1.target=double\ calcAreaRectangle(int,\ int)
+comment2.params=w\ l
+comment2.target=int\ calcRectPerimeter(int,\ int)
+comment3.params=r
+comment3.target=double\ calcCircumference(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
